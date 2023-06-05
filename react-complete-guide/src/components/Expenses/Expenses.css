@@ -5,3 +5,7 @@
   width: 50rem;
   max-width: 95%;
 }
+
+.warn {
+  color: rgba(123, 51, 211, 0.68);
+}
